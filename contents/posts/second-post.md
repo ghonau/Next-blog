@@ -1,13 +1,13 @@
 ---
-title: First Post
-slug : first-post
+title: Second Post
+slug : second-post
 ---
 
 This is the paragraph of the post
 
 Here's some __bold text__.
 
-Creating a list:  
+Creating a second list:  
 
 
 * First
